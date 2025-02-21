@@ -1,5 +1,10 @@
 # MyAuth
-C# authentication server using OpenIdDict
+C# authentication server using OpenIdDict  
+
+This app features:
+1. C# .net core webapp with individual account auth as recommended by OpenIdDict guide  
+    1. Includes Microsoft Identity UI
+1. Deployment to Docker Linux Container
 
 # Running the server
 
