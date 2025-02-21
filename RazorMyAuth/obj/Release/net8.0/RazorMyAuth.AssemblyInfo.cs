@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-RazorMyAuth-66fcd825-8bf5-463d-9e81-8b80329cfeb8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorMyAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685cd57cb525accdbd06ccf94b8500787dd718a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6dced3d22befc9fb6aa8f938b7caf0b12326c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorMyAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorMyAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
